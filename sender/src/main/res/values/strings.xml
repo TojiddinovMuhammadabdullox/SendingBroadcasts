@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sender</string>
+    <string name="activity_main_battery_level">Battery Level: %d%%</string>
+    <string name="activity_main_battery_status">Battery status: %s</string>
+
+    <string-array name="activity_main_battery_statuses">
+        <item>Unknown</item>
+        <item>Charging</item>
+        <item>Discharging</item>
+        <item>Not charging</item>
+        <item>Full</item>
+    </string-array>
+</resources>
